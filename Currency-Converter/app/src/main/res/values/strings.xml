@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A1 Nakhuda - 000878456</string>
+
+    <string-array name="spinner_options">
+        <item>US Dollar</item>
+        <item>Japanese Yen</item>
+        <item>Cuban Peso</item>
+        <item>Kuwaiti Dinar</item>
+        <item>Saudi Riyal</item>
+    </string-array>
+</resources>
